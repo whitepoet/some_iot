@@ -1,3 +1,4 @@
+# juniper izo to iso
 import zlib
 import struct
 import binascii
