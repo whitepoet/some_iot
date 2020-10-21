@@ -1,4 +1,5 @@
 # juniper izo to iso
+# 适用ex系列
 import zlib
 import struct
 import binascii
